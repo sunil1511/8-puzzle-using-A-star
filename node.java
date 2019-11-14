@@ -10,6 +10,6 @@ package air;
  * @author sunildupare
  */
 public class node {
-    int [][] state=new int[3][3];
+    int [][] state=new int[3][3];//this array stores the state
     int g=0,h=0,f=0,l=0;
 }
